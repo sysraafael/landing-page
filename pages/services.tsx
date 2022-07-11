@@ -28,7 +28,7 @@ function services() {
           <div className="group flex h-16 w-auto cursor-pointer items-center justify-center gap-8 rounded-xl border border-violet-600 px-8 hover:bg-violet-600 hover:shadow-xl ">
             <GiProtectionGlasses className="text-2xl text-gray-600 group-hover:text-white" />
             <h1 className="text-xl font-semibold text-violet-600 group-hover:text-white">
-              Protecção Total
+              Proteção Total
             </h1>
           </div>
           <div className="group flex h-16 w-auto cursor-pointer items-center justify-center gap-8 rounded-xl border border-violet-600 px-8 hover:bg-violet-600 hover:shadow-xl ">
