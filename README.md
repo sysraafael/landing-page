@@ -13,5 +13,5 @@ Link: https://landing-page-phi-puce-37.vercel.app/
 ```bash
 yarn install
 # &&
-npm rum dev
+npm run dev
 ```
